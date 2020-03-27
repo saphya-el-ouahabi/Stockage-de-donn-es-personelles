@@ -1,5 +1,5 @@
 # Stockage-de-donnees-personelles
-projet réalisé dans le cadre de mes études (cours PROJ631 - Projet algorithmique)
+(projet réalisé dans le cadre du cours PROJ631 - Projet algorithmique)
 
 
 L’objectif de ce projet est le placement de données personnelles dans un graphe. 
